@@ -45,5 +45,4 @@ cacheSolve <- function(x, ...) {
         m <- solve(data, ...)
         return(m)
     }
-    
 }
